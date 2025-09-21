@@ -10,7 +10,7 @@ Curious Learner....👨‍💻🚀
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **Full Stack Development**  
-- 🌱 Learning **React & Next.js**  
+- 🌱 Learning **React & Express.js**  
 - 💬 Ask me about **UI/UX, Full Stack, AI/ML**  
 - ⚡ Fun fact: *I’m also a great cook!*  
 - 📫 Reach me at: **koustavmanna24@gmail.com**
